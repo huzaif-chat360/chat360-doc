@@ -1,0 +1,16 @@
+Link - https://www.sphinx-doc.org/en/master/
+
+Sphinx Documentation for Chat360
+
+create virtualenv
+
+`virtualenv env`
+
+Activate
+`. ./env/bin/activate`
+
+Install Requirements
+`pip install requirements.txt`
+
+For making HTML of Doc
+`make html`
