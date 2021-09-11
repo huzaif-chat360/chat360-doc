@@ -1,5 +1,5 @@
 How to configure your facebook page on chat360
-================================================
+==========================================
 
 1) Go to https://app.chat360.io/login and Login or Register
 
@@ -22,7 +22,7 @@ How to configure your facebook page on chat360
 
 .. figure:: /facebook4.png
 
-7) Allow facebook App and Continue
+7) Allow facebook App and Continue 
 
 8) It will ask to select page on which you want to give permission. After select > Next > Done > OK
 
@@ -37,7 +37,7 @@ How to configure your facebook page on chat360
 .. figure:: /facebook7.png
 
 11) Now select the Facebook Bot and Change Unpublish to Publish and Save Changes
-
+ 
 .. figure:: /facebook8.png
 
 12) Now your bot is ready, on your linked facebook page if anyone type message bot will respond
