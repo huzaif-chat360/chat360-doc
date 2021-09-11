@@ -11,6 +11,7 @@ Welcome to Chat360 Documentation's documentation!
    :caption: Contents:
 
     Watsapp Bot <./modules.rst>
+    Analytics <./analytics.rst>
 
 
 
