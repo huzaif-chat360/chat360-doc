@@ -13,7 +13,7 @@ Welcome to Chat360 Documentation's documentation!
     Watsapp Bot <./modules.rst>
     Analytics <./analytics.rst>
     Facebook <./facebook.rst>
-
+    Web <./web.rst> 
 
 Indices and tables
 ==================
