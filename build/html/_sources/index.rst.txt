@@ -7,10 +7,14 @@ Welcome to Chat360 Documentation's documentation!
 =================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
 
-
+    Watsapp Bot <./modules.rst>
+    Analytics <./analytics.rst>
+    Facebook <./facebook.rst>
+    Web <./web.rst>
+    Telegram <./telegram.rst> 
 
 Indices and tables
 ==================
